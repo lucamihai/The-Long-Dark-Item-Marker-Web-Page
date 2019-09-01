@@ -1,12 +1,3 @@
-<head>
-  <style>
-    img {
-      border: 1px solid black;
-      border-radius: 8px;
-    }
-  </style>
-</head>
-
 <h1> How to use The Long Dark Item Marker</h1>
 
 <ul>
